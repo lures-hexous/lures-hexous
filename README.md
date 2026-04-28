@@ -1,4 +1,4 @@
-## Hi there, I'm Hamza
+## Hi there, 
 
 I am a detail-oriented Data Annotator and NLP enthusiast focused on bridging the gap between raw human language and machine intelligence. Based in Ethiopia, I specialize in providing high-quality ground truth for AI models in the African market.
 
